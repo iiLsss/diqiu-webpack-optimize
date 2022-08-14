@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+html, body{
+  background: #f0f0f0;
+  font-size: 16px;
+}
+.container{
+  margin: 0 auto;
+  margin-top: 16px;
+  width: 1200px;
+}
