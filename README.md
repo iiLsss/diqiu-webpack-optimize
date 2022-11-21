@@ -1,10 +1,11 @@
 # diqiu-webpack-optimize
 
+本项目主要示例webpack中如何优化项目
+
 **webpack基本使用**
   - 初始化项目
   - 安装依赖&创建文件
   - 支持 css less 兼容性
-
 
 **webpack优化配置项：**
   - 压缩js
