@@ -8,6 +8,7 @@ const routes = [
   { path: '/', element: <Home /> },
   { path: '/profile', element: <Profile /> },
   { path: '/user', element: <User /> },
+  { path: '/abc/:id', element: <User />},
   { path: '*', element: <NotFound /> }
 ];
 export default routes;

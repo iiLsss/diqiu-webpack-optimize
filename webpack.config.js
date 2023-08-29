@@ -10,6 +10,7 @@ module.exports = {
   mode: "development",
   entry: './src/index.js',
   output: {
+    publicPath: '/',
     path: path.resolve(__dirname, 'dist'),
     filename: '[name].[chunkhash].js'
   },
